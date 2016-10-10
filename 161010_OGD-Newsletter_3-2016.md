@@ -23,7 +23,7 @@ Frank Schiersner
 08. Informationsfreiheitsbeauftragte empfehlen govdata.de
 09. Prototype Fund beendet erste Runde
 
-Lizenz 
+Lizenz <br>
 Kontakt 
 
 ## 01. Behördenverzeichnis Brandenburg zum Mitnehmen
