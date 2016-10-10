@@ -4,12 +4,12 @@ Guten Tag!
 
 Es kostete eine Gruppe Techniker den größten Teil des Jahres 2015, um zwei Megabyte an Informationen von 200 kurz zuvor entdeckten 5 1/4-Zoll-Disketten wieder lesbar zu machen, die StarTrek-Erfinder Gene Roddenberry beschrieben hatte. Roddenberry nutzte einen seltenen Computer namens Lexoriter. Für den gibt es keine technische Dokumentation mehr, sodass das Team die Software mühsam entschlüsseln musste und die Daten in Dateien konvertieren, die ein heutiger Computer verarbeiten kann. Die Blogger D. Schmüdde und Alexander Rakoczy [1] kommen zu dem Schluss, dass nur einfache Textdateien bewiesen haben, über die Jahrzehnte hinweg nutzbar geblieben zu sein [2]. Daher finden Sie nun ein Text-Archiv aller bislang veröffentlichten Ausgaben dieses Newsletters unter [3].
 
-[1] http://brokentoilets.org/issues/#openness-open-data 
-[2] http://brokentoilets.org/article/year-twenty-megabytes/ 
+[1] http://brokentoilets.org/issues/#openness-open-data <br>
+[2] http://brokentoilets.org/article/year-twenty-megabytes/ <br>
 [3] http://schiersner.github.io/de-bb-ogd-newsletter/ 
 
-Mit freundlichen Grüßen
-Im Auftrag
+Mit freundlichen Grüßen<br>
+Im Auftrag<br>
 Frank Schiersner
 
 ## Inhalt
@@ -49,8 +49,8 @@ https://open.hpi.de/courses/semanticweb2016
 ## 05. NRW: Landesrecht und Geobasisdaten kostenfrei / Open.NRW-Kongress
 Seit dem 4. Oktober 2016 kann kostenfrei auf das Landesrecht Nordrhein-Westfalen zugegriffen werden. Alle bislang kostenpflichtigen Funktionen sind freigeschaltet. Neben dem geltenden Landesrecht umfasst das Angebot auch alle historischen Gesetzesblätter seit 1946 und Ministerialblätter seit 1949. Volltextsuche, Newsletter und RSS-Feed ergänzen das Angebot [1].Ab dem 1. Januar 2017 stehen Geobasisdaten des Landes wie Karten oder Luftbilder von Flüssen, Straßen, Grundstücken und Gebäuden auf Open.NRW kostenfrei zur Verfügung. Land und Kommunen verzichten dann auf die Gebühren für amtliche Geobasisdaten, um vor allem die Gründer-Szene zu stärken [2]. Beim ersten Open.NRW-Kongress am 26. Oktober in Duisburg wird es um die digitale Strategie der Landesregierung gehen: mehr Transparenz, mehr Bürgerbeteiligung und besser vernetzte Zusammenarbeit [3]. 
 
-[1] http://www.recht.nrw.de 
-[2] https://www.land.nrw/de/pressemitteilung/nrw-geobasisdaten-sind-ab-2017-kostenfrei-online-abrufbar 
+[1] http://www.recht.nrw.de <br>
+[2] https://www.land.nrw/de/pressemitteilung/nrw-geobasisdaten-sind-ab-2017-kostenfrei-online-abrufbar <br>
 [3] http://www.leben-in.nrw
 
 ## 06. Positionspapier des VDV zum Thema Open Data
@@ -61,8 +61,8 @@ http://www.vdv-online.de/aktuelles/vdvaktuell/positionspapier-des-vdv-zum-thema-
 ## 07. Open Data aus internationaler Perspektive
 Unter diesem Titel hat Tobias Wangermann Berichte zum Stand von Open Data aus zehn Ländern zusammengetragen: aus Brasilien, Frankreich, Großbritannien, Indien, Indonesien, Japan, Österreich, den Philippinen, Polen und den USA. Wangermann verweist darauf, dass Deutschland bei der Umsetzung der Open-Data-Charta der G8 vom November 2014 nur den vorletzten Platz belegt. Die Länderberichte zeigen alternative Ansätze und Modelle der Umsetzung. Damit können gesetzliche Vorgaben, politische Entscheidungen und gesellschaftliche Rahmenbedingungen von Ländern betrachtet werden, die auf diesem Handlungsfeld erfolgreicher sind.
 
-Tobias Wangermann (Hrsg.): "Open Data aus internationaler Perspektive" 
-Konrad-Adenauer-Stiftung e.V., 2016, Sankt Augustin/Berlin 
+Tobias Wangermann (Hrsg.): "Open Data aus internationaler Perspektive" <br>
+Konrad-Adenauer-Stiftung e.V., 2016, Sankt Augustin/Berlin <br>
 http://www.kas.de/wf/doc/kas_45742-544-1-30.pdf?160630133043
 
 ## 08. Informationsfreiheitsbeauftragte empfehlen govdata.de
@@ -72,22 +72,23 @@ http://www.lda.brandenburg.de/sixcms/detail.php/756849
 
 ## 09. Prototype Fund beendet erste Runde
 Die erste Runde des Prototype Fund ist abgeschlossen; mehr als 500 Einreichungen sind dabei zusammengekommen. Insgesamt soll es vier Förderrunden geben. Die nächste Bewerbungsphase beginnt am 1. Februar 2017. Mit dem Fund fördern die OKFN und das Bundesministerium für Bildung und Forschung gemeinnützige Open-Source-Projekte. Dafür stehen in den nächsten drei Jahren 1,2 Mio. Euro zur Verfügung. 
+
 http://prototypefund.de
 
 ## Lizenz
-Dieser Text wurde veröffentlicht unter der "Datenlizenz Deutschland – Zero – Version 2.0" 
+Dieser Text wurde veröffentlicht unter der "Datenlizenz Deutschland – Zero – Version 2.0" <br>
 https://www.govdata.de/dl-de/zero-2-0 
 
-Ein Archiv aller bislang veröffentlichten Ausgaben finden Sie unter:  
+Ein Archiv aller bislang veröffentlichten Ausgaben finden Sie unter:<br>
 http://schiersner.github.io/de-bb-ogd-newsletter/
 
 ## Kontakt
-Frank Schiersner 
-Ministerium des Innern und für Kommunales des Landes Brandenburg (MIK) 
-Referat 11 (E-Government- und IT-Infrastruktur) 
-Henning-von-Tresckow-Str. 9-13 
+Frank Schiersner <br>
+Ministerium des Innern und für Kommunales des Landes Brandenburg (MIK) <br>
+Referat 11 (E-Government- und IT-Infrastruktur) <br>
+Henning-von-Tresckow-Str. 9-13 <br>
 14467 Potsdam
 
-Telefon: 0331 866-2086 
-Telefax: 0331 866-2102 
+Telefon: 0331 866-2086 <br>
+Telefax: 0331 866-2102 <br>
 E-Mail:  frank.schiersner@mik.brandenburg.de
